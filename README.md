@@ -8,5 +8,8 @@ Coding Bootcamp.
 Enter an event and click the save icon to store the event in local storage.
 
 Please feel free to contact me with any questions or comments!
-<a mailto:"beaubarrier@gmail.com">beaubarrier@gmail.com</a>
+<br>beaubarrier@gmail.com
+<br><br>
+<img width="1028" alt="Screen Shot 2021-04-23 at 5 45 44 PM" src="https://user-images.githubusercontent.com/78766978/115941796-ce985100-a45b-11eb-9455-a79da6d65811.png">
+
 
